@@ -1,5 +1,5 @@
 # bitboards-chess
-Requires a JDK installation on device
+Requires a JDK installation on device.
 To learn more, see Chess report.pdf
 
 ## to run
