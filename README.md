@@ -1,4 +1,7 @@
 # Bitboards Chess
+
+![Example Image](board.png)
+
 Requires a JDK installation on device.  
 To learn more, see Chess report.pdf
 
